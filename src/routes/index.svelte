@@ -1,4 +1,4 @@
-<script context="module">
+<script>
   /**
    * @type {import('@sveltejs/kit').Load}
    */
